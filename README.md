@@ -4,13 +4,21 @@
 Table of contents
 
 M5 Forecast Competition - Accuracy
+
 Credits
+
 Section 1: Load Data and Benchmark
+
  1A: Load data and set data types
+ 
  Please Credit dante.haywood at gmail dot com for the rest of the notebook
+ 
 Section 2: Benchmark models
+
  Moving Average
+ 
  Exponential Smoothing
+ 
  Double Exponential Smoothing
  Croston's Method and Variants
  ARIMA and Variants
