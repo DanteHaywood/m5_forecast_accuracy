@@ -15,7 +15,7 @@ Section 1: Load Data and Benchmark
  
 Section 2: Benchmark models
 
- Moving Average
+\tMoving Average
  
  Exponential Smoothing
  
