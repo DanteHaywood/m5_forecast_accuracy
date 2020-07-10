@@ -3,12 +3,12 @@
 
 **Table of contents**
 
-* M5 Forecast Competition - Accuracy
+* **M5 Forecast Competition - Accuracy**
   * Credits
-* Section 1: Load Data and Benchmark
+* **Section 1: Load Data and Benchmark**
    * Load data and set data types
    * Please Credit dante.haywood at gmail dot com for the rest of the notebook
-* Section 2: Benchmark models
+* **Section 2: Benchmark models**
    * Moving Average
    * Exponential Smoothing
    * Double Exponential Smoothing
@@ -20,7 +20,7 @@
    * Loop through all series and record the in sample fits, forecast, and RMSSE
    * Read random blocks of data back in
    * Plot the output of opt_models_wrapper
-* Section 3: RNN-Gated Recurrent Unit
+* **Section 3: RNN-Gated Recurrent Unit**
    * Train and Test set
    * TimeseriesGenerator
    * Create time series sequences and target
